@@ -8,7 +8,16 @@ Subscription can be attached to a lot of accounts.
 Account is an identity with access to resources in the subscription i.e. You. 
 Account can be attached to a lot of subscriptions.
 --------------------------------------------------------------------------------------------------------------------------------
+How to create a resource group?
 
+1) Search the resource group in the search box or go to the subscription and then search resource group
+2) Click on Create resource group 
+3) select the subscription , enter the resource group name, region 
+4) Tags- Its optional to provide the Tags for the resource group
+5) Click on Review and Create
+6) It will show a notification of "Resource group has been created successfully". 
+
+-------------------------------------------------------------------------------------------------------------------------------
 
 
 
