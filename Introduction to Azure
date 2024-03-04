@@ -1,0 +1,7 @@
+Subscription vs Account:
+
+Subscription is a logical container which contains the various resources you provision in the cloud such as VMs, DBs, Networks, etc.
+
+Account is an identity with access to resources in the subscription i.e. You. 
+
+------------------------------------------------------------------------
